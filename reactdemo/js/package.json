@@ -32,7 +32,7 @@
     "jsx-loader": "^0.13.2",
     "style-loader": "^0.23.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.1.14"
   },
   "description": ""
